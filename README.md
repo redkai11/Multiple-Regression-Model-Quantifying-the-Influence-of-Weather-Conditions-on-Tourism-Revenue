@@ -1,0 +1,1 @@
+# Multiple-Regression-Model-Quantifying-the-Influence-of-Weather-Conditions-on-Tourism-Revenue

@@ -5,11 +5,10 @@
 * Multiregression analysis and model selection
 * Interpreting the final multiregression model and drawing insights
 
-# Heads Up
 This is a group project I collaborated with 3 other peers in my STAT306 course.
 The final report was written in RMarkdown.
 I wrote the R code alone, and my peers and I collaborated on writing the final report.
-I will not be sharing the R code and datasets as I do not wish this work to be modified and reproduced in any way.  
+I will not be sharing the R code and datasets as I do not wish this work to be modified or reproduced in any way.  
 
 P.S. I blurred out the names and student number for privacy reasons. Also, I know the citation order is incorrect but I didn't bother to fix it since it wasn't for marks :D
 
